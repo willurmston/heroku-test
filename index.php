@@ -5,6 +5,6 @@
     <title></title>
   </head>
   <body>
-    <?php echo "Hiiiiiiiiiiiii world!" ?>
+    <?php echo "Hiiiiiiiiiiiii world 2!" ?>
   </body>
 </html>
